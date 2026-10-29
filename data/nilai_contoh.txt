@@ -1,0 +1,11 @@
+# Format: NIM,Nama,Nilai  (data fiktif, bukan data pribadi nyata)
+A001,Ayu,85
+A002,Budi,78
+A003,Citra,92
+A004,Dimas,60
+A005,Eka,75
+A006,Fajar,100
+A007,Gita,0
+A008,Hana,68
+A009,Indra,81
+A010,Jaya,74

@@ -1,0 +1,8 @@
+# Berisi baris yang sengaja salah untuk menguji validasi
+A001,Ayu,85
+A002,Budi,105
+A003,Citra,abc
+A004,Dimas
+A005,Eka,-5
+A001,Duplikat,70
+A006,Fajar,90
