@@ -146,7 +146,7 @@ Prinsip modular: bagian yang **membaca/menyimpan** (`data_io.py`), **memproses**
 ### Struktur Folder
 
 ```text
-proyek-akhir-fikri-yustiawan/
+proyek-akhir-masya bantani/
 |-- README.md
 |-- proposal.md
 |-- .gitignore
