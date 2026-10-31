@@ -230,8 +230,8 @@ Tugas ini individu, sehingga seluruh peran dipegang satu orang. Setiap tugas tet
 
 ## 13. Repository URL
 
-GitHub: `https://github.com/<username-github>/proyek-akhir-fikri-yustiawan`
-*(ganti `<username-github>` dengan username GitHub setelah repositori dibuat)*
+GitHub: `https://github.com/msyabntni/pertemuan-14-proyek-akhir-masya-bantani-2225250113.git`
+
 
 ---
 
