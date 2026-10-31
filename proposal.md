@@ -230,7 +230,7 @@ Tugas ini individu, sehingga seluruh peran dipegang satu orang. Setiap tugas tet
 
 ## 13. Repository URL
 
-GitHub: `https://github.com/msyabntni/pertemuan-14-proyek-akhir-masya-bantani-2225250113.git`
+GitHub: `https://github.com/msyabntni/pertemuan-14-proyek-akhir-2225250113.git`
 
 
 ---
